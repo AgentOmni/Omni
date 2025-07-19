@@ -1,5 +1,6 @@
 #Omni Community
 [TELEGRAM](https://t.me/+U1ejTJBZw5g0YmU1)
+CA: 0x0895d21d64723ec88950646d3c0cc0ec1624cae0
 
 OmniAgent is an enterprise-grade AI orchestration framework that revolutionizes Web3 development by seamlessly bridging artificial intelligence with blockchain technologies. Build powerful on-chain AI agents in hours instead of months.
 
